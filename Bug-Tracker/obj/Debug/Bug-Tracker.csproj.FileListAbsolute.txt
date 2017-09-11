@@ -1,0 +1,15 @@
+C:\Users\Deepanjan\Documents\Visual Studio 2015\Projects\Bug-Tracker\Bug-Tracker\bin\Debug\Bug-Tracker.exe.config
+C:\Users\Deepanjan\Documents\Visual Studio 2015\Projects\Bug-Tracker\Bug-Tracker\obj\Debug\Bug-Tracker.csprojResolveAssemblyReference.cache
+C:\Users\Deepanjan\Documents\Visual Studio 2015\Projects\Bug-Tracker\Bug-Tracker\obj\Debug\Bug_Tracker.Properties.Resources.resources
+C:\Users\Deepanjan\Documents\Visual Studio 2015\Projects\Bug-Tracker\Bug-Tracker\obj\Debug\Bug-Tracker.csproj.GenerateResource.Cache
+C:\Users\Deepanjan\Documents\Visual Studio 2015\Projects\Bug-Tracker\Bug-Tracker\bin\Debug\Employees.mdf
+C:\Users\Deepanjan\Documents\Visual Studio 2015\Projects\Bug-Tracker\Bug-Tracker\bin\Debug\Employees_log.ldf
+C:\Users\Deepanjan\Documents\Visual Studio 2015\Projects\Bug-Tracker\Bug-Tracker\bin\Debug\Bug-Tracker.exe
+C:\Users\Deepanjan\Documents\Visual Studio 2015\Projects\Bug-Tracker\Bug-Tracker\bin\Debug\Bug-Tracker.pdb
+C:\Users\Deepanjan\Documents\Visual Studio 2015\Projects\Bug-Tracker\Bug-Tracker\obj\Debug\Bug-Tracker.exe
+C:\Users\Deepanjan\Documents\Visual Studio 2015\Projects\Bug-Tracker\Bug-Tracker\obj\Debug\Bug-Tracker.pdb
+C:\Users\Deepanjan\Documents\Visual Studio 2015\Projects\Bug-Tracker\Bug-Tracker\obj\Debug\Bug_Tracker.Bugs.resources
+C:\Users\Deepanjan\Documents\Visual Studio 2015\Projects\Bug-Tracker\Bug-Tracker\obj\Debug\Bug_Tracker.MainMenu.resources
+C:\Users\Deepanjan\Documents\Visual Studio 2015\Projects\Bug-Tracker\Bug-Tracker\obj\Debug\Bug_Tracker.Form1.resources
+C:\Users\Deepanjan\Documents\Visual Studio 2015\Projects\Bug-Tracker\Bug-Tracker\obj\Debug\Bug_Tracker.buglogs.resources
+C:\Users\Deepanjan\Documents\Visual Studio 2015\Projects\Bug-Tracker\Bug-Tracker\obj\Debug\Bug_Tracker.Login.resources
